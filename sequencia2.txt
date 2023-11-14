@@ -1,0 +1,7 @@
+IN(A,3)
+IN(C,5)
+IN(B,2)
+IN(D,2)
+OUT(C)
+OUT(D)
+IN(E,2)
